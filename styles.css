@@ -1,0 +1,21 @@
+h1 {
+    background-color: gray;
+    color: gold;
+    text-align: center;
+}
+
+h2 {
+    background-color: gold;
+    color: white;
+}
+
+.PageTitle, .MainList {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.MainList {
+    font-size: larger;
+    background-color: rgb(233, 203, 34);
+    color: white;
+    text-align: center;
+}
